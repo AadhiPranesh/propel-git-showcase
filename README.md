@@ -1,5 +1,5 @@
 # Tailwyndz Propel – Git & Version Control Showcase
-
+*sample
 Practical repository demonstrating atomic micro-commits, Conventional Commits formatting, branch merging, and conflict resolution.
 * test the   git add -p command
 ## Practices Demonstrated
